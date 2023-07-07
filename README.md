@@ -115,21 +115,6 @@ To run the project, execute the following command:
 Install live server extension in VS code then open index.html file using live server.
 
 
-
-### Run tests
-
-To run tests, run the following command:
-
-Coming soon.
-
-
-
-### Deployment
-
-Coming soon.
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Bhushan Deshmukh
