@@ -4,9 +4,6 @@
 
 
 <div align="center">
- 
-   
-
 
   <h3><b>My Hello microverse Project</b></h3>
 
@@ -91,7 +88,6 @@ In order to run this project you need:
 
 Web browser <br/>
 Code editor
-
 
 
 ### Setup
